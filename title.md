@@ -1,1 +1,1 @@
-Double click to edit the title
+PCST 2016 Proceedings
