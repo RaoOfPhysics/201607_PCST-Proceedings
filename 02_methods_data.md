@@ -22,7 +22,7 @@ These countries have the following representation within CMS (as of June 2015):
 Note: This use of the term "country" here does not refer to the nationality of the individual researcher, but to the country their institute or university is based in.
 
 The pilot study identified several issues with the questions included in the survey.
-The first was that the term "outreach" was not clear to people from Russia and China &mdash; instead, the term they thought of when referring to these kinds of activities was "popularisation".
+The first was that the term "outreach" was not clear to people from Russia and China -- instead, the term they thought of when referring to these kinds of activities was "popularisation".
 It therefore became necessary to include the following note at the beginning of the survey:
 
 > The term "outreach" refers to all science communication and education activities that bring scientific research to audiences outside the research community. It is also known as "popularisation".
