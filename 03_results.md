@@ -40,7 +40,7 @@ The audience groups, in order of their listing in the survey, were:
 The groups can also be clustered together as:
 
 |Research|Education|Media|Other|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |**Colleagues**|Teachers|General journalists|Government|
 |Other scientists|University students|**Science journalists**|Industry|
 |Press officers|**School students**|Other media|**Non-specialist public**|

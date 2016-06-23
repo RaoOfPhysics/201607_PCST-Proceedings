@@ -14,7 +14,7 @@ The countries were chosen to be different enough culturally and linguistically t
 These countries have the following representation within CMS (as of June 2015):
 
 |Country|CMS members|
-|---|---|
+|:---|:---|
 |America|1442|
 |Russia|295|
 |China|94|
