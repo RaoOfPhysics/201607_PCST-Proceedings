@@ -22,22 +22,8 @@ It is unclear whether this change in attitude was a consequence of thinking abou
 ## Communication audiences
 
 The survey presented the respondents with several audience groups and asked them to rate how **knowledgeable** they thought the audience was regarding their area of research, how **important** it was to communicate their research to this audience, and how **easy** it was to do so.
-The audience groups, in order of their listing in the survey, were:
 
-- Your colleagues and collaborators / other people in your research field
-- Other scientists or experts outside your research field
-- Press officers at your university/institute
-- Teachers
-- University students
-- School students / pupils
-- General journalists
-- Science journalists
-- Other media (writers, documentary makers)
-- Government / politicians / policy makers
-- Industry / corporate sector / private companies
-- Non-specialist public
-
-The groups can also be clustered together as:
+The audience groups presented to the respondents can be clustered together as:
 
 |Research|Education|Media|Other|
 |:---|:---|:---|:---|
@@ -45,7 +31,7 @@ The groups can also be clustered together as:
 |Other scientists|University students|**Science journalists**|Industry|
 |Press officers|**School students**|Other media|**Non-specialist public**|
 
-Institutional press officers can be thought of as belonging to the research community.
+Institutional press officers can be thought of as belonging to the research community, due to the nature of their jobs and their proximity with researchers.
 The audiences in bold are the ones that are being discussed in this paper.
 
 Perhaps unsurprisingly, colleagues were ranked as the most important group, the most knowledgeable group and the easiest to communicate with about one's research.
