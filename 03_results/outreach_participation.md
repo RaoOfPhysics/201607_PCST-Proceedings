@@ -1,7 +1,3 @@
-# Results
-
-The survey covered a variety of areas pertaining to science communication, but this paper will focus on two themes only.
-
 ## Outreach participation
 
 The respondents were asked whether or not they had previously participated in any outreach activities.
@@ -18,21 +14,3 @@ The survey also asked respondents to pick the statement they most agreed with fr
 These options can be interpreted respectively as "Yes", "No" and "Maybe" responses to the question: "Do you plan to participate in an outreach activity in the next 12 months?"
 The responses to this question were rather interesting: a small number of those who had previously participated said they wouldn't, but a significant number of those who had previously never participated said that they definitely would or may participate in outreach in the near future.
 It is unclear whether this change in attitude was a consequence of thinking about outreach participation in general while responding to the survey.
-
-## Communication audiences
-
-The survey presented the respondents with several audience groups and asked them to rate how **knowledgeable** they thought the audience was regarding their area of research, how **important** it was to communicate their research to this audience, and how **easy** it was to do so.
-
-The audience groups presented to the respondents can be clustered together as:
-
-|Research|Education|Media|Other|
-|:---|:---|:---|:---|
-|**Colleagues**|Teachers|General journalists|Government|
-|Other scientists|University students|**Science journalists**|Industry|
-|Press officers|**School students**|Other media|**Non-specialist public**|
-
-Institutional press officers can be thought of as belonging to the research community, due to the nature of their jobs and their proximity with researchers.
-The audiences in bold are the ones that are being discussed in this paper.
-
-Perhaps unsurprisingly, colleagues were ranked as the most important group, the most knowledgeable group and the easiest to communicate with about one's research.
-When it came to importance and ease of communication, science journalists, school students and the non-specialist public were ranked approximately on par with each other, although science journalists were thought to be more knowledgeable than the other two groups.

@@ -1,5 +1,3 @@
-# Methods and data
-
 ## Methods
 
 It being impossible to canvass all 4000+ members of the CMS Collaboration, or ensure that all members of a random sample would be willing to respond to a survey, it was decided to circulate an electronic survey to the entire collaboration, soliciting as many responses as possible.
@@ -42,11 +40,3 @@ Each e-mail generated a flurry of responses that died down within a few days.
 Noticing a lack of responses from engineers within the collaboration, they were contacted separately with a request to respond to the survey.
 Also, members from countries with a proportionally low response rate were also re-contacted.
 However, it is important to note that these last two reminders (engineers and low-response countries) did not yield many new responses.
-
-## Data
-
-Over the course of the data-collection period, a total of 402 responses were received.
-Of these, 10 were duplicates (the respondents seemingly having forgotten that they had already answered the questions).
-The duplicates were used as a sort of "control" to check whether people's responses had changed significantly over time: no substantial changes (a Likert rating of 4 may have gone to 5 or vice versa) were observed.
-One of the responses was invalid for other reasons.
-This left a total of 391 responses for further analysis, or slightly less than 10% of the collaboration.
