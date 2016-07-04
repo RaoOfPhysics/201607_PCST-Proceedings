@@ -1,1 +1,1 @@
-**\label{fig:fig1}. Previous participation in outreach** This alluvial plot maps the number of outreach activities the survey respondents said they had participated in during the previous 12 months to the amount of time they said they had devoted to outreach in the same time window.
+**\label{fig:fig1} Previous participation in outreach** This alluvial plot maps the number of outreach activities the survey respondents said they had participated in during the previous 12 months to the amount of time they said they had devoted to outreach in the same time window.
