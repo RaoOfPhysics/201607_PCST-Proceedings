@@ -7,8 +7,8 @@ abstract.md
 02_methods_data/data.md
 03_results/results.md
 03_results/outreach_participation.md
-figures/figure_01/figure_01.svg
-figures/figure_02/figure_02.svg
+figures/figure_01/figure_01.png
+figures/figure_02/figure_02.png
 03_results/comms_audiences.md
 <!--figures/figure_03/figure_03.svg-->
 <!--figures/figure_04/figure_04.svg-->
