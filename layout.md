@@ -10,10 +10,10 @@ abstract.md
 figures/figure_01/figure_01.png
 figures/figure_02/figure_02.png
 03_results/comms_audiences.md
-<!--figures/figure_03/figure_03.svg-->
-<!--figures/figure_04/figure_04.svg-->
-<!--figures/figure_05/figure_05.svg-->
-<!--figures/figure_06/figure_06.svg-->
+figures/figure_03/figure_03.png
+figures/figure_04/figure_04.png
+figures/figure_05/figure_05.png
+figures/figure_06/figure_06.png
 04_conclusions/conclusions.md
 04_conclusions/limitations.md
 04_conclusions/next_steps.md
