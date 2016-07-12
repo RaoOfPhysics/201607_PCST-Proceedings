@@ -1,8 +1,7 @@
 # Conclusions
 
-**[FIX THE TONE HERE!]**
-Researchers in the particle-physics community value communication with their colleagues the most.
-Science journalists were afforded a surprising amount of value (and respect?) by the community.
-I say surprising because, and this is entirely anecdotal, there are frequent complaints among scientists about journalists not doing a good enough job of explaining their research.
-Perhaps this is restricted to journalists whose professional beat is not science.
-**[/FIX THE TONE HERE!]**
+In terms of the importance of communicating with certain audiences, the responses to this survey can be compared with similar questions asked in a previous survey by the Royal Society **[TODO: CITATION]**.
+In the Royal Society survey, the respondents were asked to rate the importance of communicating with a list of audiences, two of which map exactly with the audiences mentioned in this paper: (1) science journalists and (2) the non-specialist public.
+Notably, both these groups had their importance rated considerably higher than in the Royal Society survey **[TODO: ADD NUMBERS and/or PLOTS]**.
+Then again, the majority of the respondents to the Royal Society survey had not participated in any outreach activities in the 12 months prior to the survey.
+It may therefore be that the differences between the two sets of data are because the respondents within the particle-physics group had recently engaged in outreach and consequently viewed these audiences more favourably than their counterparts surveyed by the Royal Society.
