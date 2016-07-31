@@ -1,3 +1,3 @@
 # Results
 
-The survey covered a variety of areas pertaining to science communication, but this paper focuses on two themes only.
+The survey covered a variety of areas pertaining to science communication, but this paper focuses on two themes only: outreach participation and communication audiences.

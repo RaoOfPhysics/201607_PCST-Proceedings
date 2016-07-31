@@ -1,6 +1,6 @@
 ## Methods
 
-It would have been unfeasible to canvass all 4000+ members of the CMS Collaboration to collect data for this project.
+It would have been unfeasible to conduct a census of all 4000+ members of the CMS Collaboration to collect data for this project.
 It would have been equally problematic to ensure that all members of a random sample would be willing to respond to a survey.
 It was therefore decided to circulate an electronic survey to the entire collaboration, soliciting as many responses as possible.
 This approach had the endorsement of the management of the collaboration.
