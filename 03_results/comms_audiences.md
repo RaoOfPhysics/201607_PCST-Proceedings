@@ -13,7 +13,7 @@ These audiences that were presented to the respondents can themselves be conside
 Institutional press officers can be thought of as belonging to the research community, due to the nature of their jobs and their proximity with researchers.
 The audiences in bold are the ones that are being discussed in this paper.
 
-Figures 3, 4, 5 and 6 show the ratings for these audiences in the plots in the top row and on the bottom left.
+Figures \ref{fig:fig3}, \ref{fig:fig4}, \ref{fig:fig5} and \ref{fig:fig6} show the ratings for these audiences in the plots in the top row and on the bottom left.
 The fourth plot in each of these figures (bottom right) shows a “Combination” score, which is simply a sum of the votes shown in the plots for Importance, Knowledge and Ease of Communication.
 This plot serves only an illustrative purpose, as its shape can be thought of as showing the overall perceived favourability of each audience (1 being “Unfavourable” and 5 being “Favourable”).
 
