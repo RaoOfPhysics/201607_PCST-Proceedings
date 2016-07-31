@@ -1,1 +1,1 @@
-**\label{fig:fig4} Communicating with High-School Students** The plots here show how the survey respondents rated high-school students when it came to their knowledge, the importance of communicating with them and the ease of doing so. A fourth plot also shows the votes for the three categories summed up to give a general overview of how ``favourable'' this audience is for the respondents.
+**\label{fig:fig4} Communicating with High-School Students**
