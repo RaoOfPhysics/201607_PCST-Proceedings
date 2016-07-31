@@ -1,13 +1,469 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="520" width="800"><g transform="translate(0,10)"><g><path style="stroke-width: 139.655; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,69.82758620689656C400,69.82758620689656 400,69.82758620689653 795,69.82758620689653" class="link"></path><path style="stroke-width: 99.569; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,189.4396551724138C400,189.4396551724138 400,211.07758620689654 795,211.07758620689654" class="link"></path><path style="stroke-width: 38.7931; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,258.6206896551724C400,258.6206896551724 400,323.87931034482756 795,323.87931034482756" class="link"></path><path style="stroke-width: 31.0345; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,344.9137931034483C400,344.9137931034483 400,358.7931034482759 795,358.7931034482759" class="link"></path><path style="stroke-width: 24.569; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,403.40517241379314C400,403.40517241379314 400,386.5948275862069 795,386.5948275862069" class="link"></path><path style="stroke-width: 24.569; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,317.11206896551727C400,317.11206896551727 400,273.1465517241379 795,273.1465517241379" class="link"></path><path style="stroke-width: 20.6897; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,459.3103448275862C400,459.3103448275862 400,471.89655172413796 795,471.89655172413796" class="link"></path><path style="stroke-width: 19.3966; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,425.3879310344828C400,425.3879310344828 400,435.38793103448273 795,435.38793103448273" class="link"></path><path style="stroke-width: 9.05172; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,386.5948275862069C400,386.5948275862069 400,289.9568965517241 795,289.9568965517241" class="link"></path><path style="stroke-width: 9.05172; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,364.9568965517242C400,364.9568965517242 400,421.16379310344826 795,421.16379310344826" class="link"></path><path style="stroke-width: 6.46552; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,281.25C400,281.25 400,413.4051724137931 795,413.4051724137931" class="link"></path><path style="stroke-width: 5.17241; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,302.2413793103449C400,302.2413793103449 400,142.2413793103448 795,142.2413793103448" class="link"></path><path style="stroke-width: 3.87931; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,447.0258620689655C400,447.0258620689655 400,146.76724137931032 795,146.76724137931032" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,288.36206896551727C400,288.36206896551727 400,493.5344827586207 795,493.5344827586207" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,285.7758620689655C400,285.7758620689655 400,460.2586206896552 795,460.2586206896552" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,486.12068965517244C400,486.12068965517244 400,498.7068965517241 795,498.7068965517241" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,480.948275862069C400,480.948275862069 400,150 795,150" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,370.7758620689656C400,370.7758620689656 400,496.12068965517244 795,496.12068965517244" class="link"></path><path style="stroke-width: 2.58621; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,498.7068965517242C400,498.7068965517242 400,447.67241379310343 795,447.67241379310343" class="link"></path><path style="stroke-width: 1.2931; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,482.8879310344828C400,482.8879310344828 400,399.52586206896547 795,399.52586206896547" class="link"></path><path style="stroke-width: 1.2931; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 0.4;" d="M5,484.1810344827586C400,484.1810344827586 400,445.7327586206896 795,445.7327586206896" class="link"></path></g><g><g transform="translate(0,497.4137931034483)" class="node"><rect style="" width="5" height="2.586206896551724"><title>>100
-2</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="1.293103448275862" x="11">>100</text></g><g transform="translate(0,445.08620689655174)" class="node"><rect style="" width="5" height="24.56896551724138"><title>0
-19</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="12.28448275862069" x="11">0</text></g><g transform="translate(0,0)" class="node"><rect style="" width="5" height="289.65517241379314"><title>1–5
-224</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="144.82758620689657" x="11">1–5</text></g><g transform="translate(0,382.0689655172414)" class="node"><rect style="" width="5" height="53.01724137931035"><title>11-50
-41</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="26.508620689655174" x="11">11-50</text></g><g transform="translate(0,479.65517241379314)" class="node"><rect style="" width="5" height="7.758620689655173"><title>51-100
-6</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="3.8793103448275863" x="11">51-100</text></g><g transform="translate(0,299.65517241379314)" class="node"><rect style="" width="5" height="72.41379310344828"><title>6–10
-56</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="start" dy=".35em" y="36.20689655172414" x="11">6–10</text></g><g transform="translate(795,492.2413793103448)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="7.758620689655173"><title>More than 8 hours per week, on average
-6</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="3.8793103448275863" x="-6">More than 8 hours per week, on average</text></g><g transform="translate(795,458.9655172413793)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="23.275862068965516"><title>None
-18</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="11.637931034482758" x="-6">None</text></g><g transform="translate(795,304.48275862068965)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="95.6896551724138"><title>Up to 1 hour per week, on average
-74</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="47.8448275862069" x="-6">Up to 1 hour per week, on average</text></g><g transform="translate(795,-2.842170943040401e-14)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="151.29310344827587"><title>Up to 10 hours in total
-117</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="75.64655172413794" x="-6">Up to 10 hours in total</text></g><g transform="translate(795,161.29310344827584)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="133.1896551724138"><title>Up to 2 hours per month, on average
-103</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="66.5948275862069" x="-6">Up to 2 hours per month, on average</text></g><g transform="translate(795,410.17241379310343)" class="node"><rect style="fill: rgb(102, 102, 102);" width="5" height="38.793103448275865"><title>Up to 8 hours per week, on average
-30</title></rect><text style="font-size: 11px; font-family: Arial,Helvetica; pointer-events: none;" text-anchor="end" dy=".35em" y="19.396551724137932" x="-6">Up to 8 hours per week, on average</text></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="520"
+   width="900"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="figure_01.svg">
+  <metadata
+     id="metadata152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs150" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1155"
+     id="namedview148"
+     showgrid="false"
+     inkscape:zoom="1.0960155"
+     inkscape:cx="400"
+     inkscape:cy="260"
+     inkscape:window-x="4"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(50,10)"
+     id="g4">
+    <g
+       id="g6">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:139.65499878;stroke-opacity:0.4"
+         d="m 5,69.827586 c 395,0 395,0 790,0"
+         class="link"
+         id="path8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:99.56900024;stroke-opacity:0.4"
+         d="m 5,189.43966 c 395,0 395,21.63793 790,21.63793"
+         class="link"
+         id="path10"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:38.79309845;stroke-opacity:0.4"
+         d="m 5,258.62069 c 395,0 395,65.25862 790,65.25862"
+         class="link"
+         id="path12"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:31.03450012;stroke-opacity:0.4"
+         d="m 5,344.91379 c 395,0 395,13.87931 790,13.87931"
+         class="link"
+         id="path14"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:24.56900024;stroke-opacity:0.4"
+         d="m 5,403.40517 c 395,0 395,-16.81034 790,-16.81034"
+         class="link"
+         id="path16"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:24.56900024;stroke-opacity:0.4"
+         d="m 5,317.11207 c 395,0 395,-43.96552 790,-43.96552"
+         class="link"
+         id="path18"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:20.68969917;stroke-opacity:0.4"
+         d="m 5,459.31034 c 395,0 395,12.58621 790,12.58621"
+         class="link"
+         id="path20"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:19.39660072;stroke-opacity:0.4"
+         d="m 5,425.38793 c 395,0 395,10 790,10"
+         class="link"
+         id="path22"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:9.05171967;stroke-opacity:0.4"
+         d="m 5,386.59483 c 395,0 395,-96.63793 790,-96.63793"
+         class="link"
+         id="path24"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:9.05171967;stroke-opacity:0.4"
+         d="m 5,364.9569 c 395,0 395,56.20689 790,56.20689"
+         class="link"
+         id="path26"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6.46551991;stroke-opacity:0.4"
+         d="m 5,281.25 c 395,0 395,132.15517 790,132.15517"
+         class="link"
+         id="path28"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.17241001;stroke-opacity:0.4"
+         d="m 5,302.24138 c 395,0 395,-160 790,-160"
+         class="link"
+         id="path30"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3.87930989;stroke-opacity:0.4"
+         d="m 5,447.02586 c 395,0 395,-300.25862 790,-300.25862"
+         class="link"
+         id="path32"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="m 5,288.36207 c 395,0 395,205.17241 790,205.17241"
+         class="link"
+         id="path34"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="m 5,285.77586 c 395,0 395,174.48276 790,174.48276"
+         class="link"
+         id="path36"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="m 5,486.12069 c 395,0 395,12.58621 790,12.58621"
+         class="link"
+         id="path38"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="M 5,480.94828 C 400,480.94828 400,150 795,150"
+         class="link"
+         id="path40"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="m 5,370.77586 c 395,0 395,125.34483 790,125.34483"
+         class="link"
+         id="path42"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.58621001;stroke-opacity:0.4"
+         d="m 5,498.7069 c 395,0 395,-51.03449 790,-51.03449"
+         class="link"
+         id="path44"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.2931;stroke-opacity:0.4"
+         d="m 5,482.88793 c 395,0 395,-83.36207 790,-83.36207"
+         class="link"
+         id="path46"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.2931;stroke-opacity:0.4"
+         d="m 5,484.18103 c 395,0 395,-38.44827 790,-38.44827"
+         class="link"
+         id="path48"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g50">
+      <g
+         transform="translate(0,497.41379)"
+         class="node"
+         id="g52">
+        <rect
+           width="5"
+           height="2.5862069"
+           id="rect54"
+           x="0"
+           y="0">
+          <title
+             id="title56">&gt;100
+2</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="1.2931035"
+           x="11"
+           id="text58">&gt;100</text>
+      </g>
+      <g
+         transform="translate(0,445.08621)"
+         class="node"
+         id="g60">
+        <rect
+           width="5"
+           height="24.568966"
+           id="rect62"
+           x="0"
+           y="0">
+          <title
+             id="title64">0
+19</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="12.284483"
+           x="11"
+           id="text66">0</text>
+      </g>
+      <g
+         class="node"
+         id="g68">
+        <rect
+           width="5"
+           height="289.65518"
+           id="rect70"
+           x="0"
+           y="0">
+          <title
+             id="title72">1–5
+224</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="144.82759"
+           x="11"
+           id="text74">1–5</text>
+      </g>
+      <g
+         transform="translate(0,382.06897)"
+         class="node"
+         id="g76">
+        <rect
+           width="5"
+           height="53.017242"
+           id="rect78"
+           x="0"
+           y="0">
+          <title
+             id="title80">11-50
+41</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="26.508621"
+           x="11"
+           id="text82">11-50</text>
+      </g>
+      <g
+         transform="translate(0,479.65517)"
+         class="node"
+         id="g84">
+        <rect
+           width="5"
+           height="7.7586207"
+           id="rect86"
+           x="0"
+           y="0">
+          <title
+             id="title88">51-100
+6</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="3.8793104"
+           x="11"
+           id="text90">51-100</text>
+      </g>
+      <g
+         transform="translate(0,299.65517)"
+         class="node"
+         id="g92">
+        <rect
+           width="5"
+           height="72.413795"
+           id="rect94"
+           x="0"
+           y="0">
+          <title
+             id="title96">6–10
+56</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:start;"
+           dy="0"
+           y="36.206898"
+           x="11"
+           id="text98">6–10</text>
+      </g>
+      <g
+         transform="translate(795,492.24138)"
+         class="node"
+         id="g100">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="7.7586207"
+           id="rect102"
+           x="0"
+           y="0">
+          <title
+             id="title104">More than 8 hours per week, on average
+6</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="3.8793104"
+           x="-6"
+           id="text106">More than 8 hours per week, on average</text>
+      </g>
+      <g
+         transform="translate(795,458.96552)"
+         class="node"
+         id="g108">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="23.275862"
+           id="rect110"
+           x="0"
+           y="0">
+          <title
+             id="title112">None
+18</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="11.637931"
+           x="-6"
+           id="text114">None</text>
+      </g>
+      <g
+         transform="translate(795,304.48276)"
+         class="node"
+         id="g116">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="95.689651"
+           id="rect118"
+           x="0"
+           y="0">
+          <title
+             id="title120">Up to 1 hour per week, on average
+74</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="47.844826"
+           x="-6"
+           id="text122">Up to 1 hour per week, on average</text>
+      </g>
+      <g
+         transform="translate(795,0)"
+         class="node"
+         id="g124">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="151.29311"
+           id="rect126"
+           x="0"
+           y="0">
+          <title
+             id="title128">Up to 10 hours in total
+117</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="75.646553"
+           x="-6"
+           id="text130">Up to 10 hours in total</text>
+      </g>
+      <g
+         transform="translate(795,161.2931)"
+         class="node"
+         id="g132">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="133.18965"
+           id="rect134"
+           x="0"
+           y="0">
+          <title
+             id="title136">Up to 2 hours per month, on average
+103</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="66.594826"
+           x="-6"
+           id="text138">Up to 2 hours per month, on average</text>
+      </g>
+      <g
+         transform="translate(795,410.17241)"
+         class="node"
+         id="g140">
+        <rect
+           style="fill:#666666"
+           width="5"
+           height="38.793102"
+           id="rect142"
+           x="0"
+           y="0">
+          <title
+             id="title144">Up to 8 hours per week, on average
+30</title>
+        </rect>
+        <text
+           style="font-size:15px;font-family:Arial, Helvetica;text-anchor:end;"
+           dy="0"
+           y="19.396551"
+           x="-6"
+           id="text146">Up to 8 hours per week, on average</text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-449.87561"
+     y="35.075684"
+     id="text4280"
+     sodipodi:linespacing="125%"
+     transform="matrix(0,-1,1,0,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan4282"
+       x="-449.87561"
+       y="35.075684"
+       style="font-size:17.5px">No. of outreach activities in last 12 months</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="79.846306"
+     y="-862.06116"
+     id="text4284"
+     sodipodi:linespacing="125%"
+     transform="matrix(0,1,-1,0,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan4286"
+       x="79.846306"
+       y="-862.06116"
+       style="font-size:17.5px">Time spent on outreach in last 12 months</tspan></text>
+</svg>
