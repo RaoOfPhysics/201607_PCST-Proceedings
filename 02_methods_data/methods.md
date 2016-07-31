@@ -29,7 +29,7 @@ Further changes to the structure and content of the survey included restructurin
 
 ### Final survey
 
-The survey was thus tweaked based on feedback gathered over two rounds of data-collection from the pilot respondents, and was then uploaded to a server at CERN for distribution.
+The survey was thus tweaked based on feedback gathered from the pilot respondents, and was then uploaded to a server at CERN for distribution.
 Access to the website hosting the survey was restricted to members of the CMS Collaboration.
 Although the survey was confidential, it wasn't anonymous: that is, the survey software recorded the names of all respondents along with their responses.
 Identifying the respondents was necessary in order to extract *auxiliary data* about the individual respondents (such as their age, nationality, institutional affiliation etc.) from the internal database of CMS members.
