@@ -17,3 +17,4 @@ figures/figure_06/figure_06.png
 04_conclusions/conclusions.md
 04_conclusions/limitations.md
 04_conclusions/next_steps.md
+05_acknowledgements/acknowledgements.md
