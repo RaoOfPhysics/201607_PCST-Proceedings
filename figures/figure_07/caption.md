@@ -1,0 +1,1 @@
+**\label{fig:fig7} Comparing audience importance** The ratings in this paper for two audiences -- Science Journalists (left) and Non-Specialist Public (right) -- compared with the ratings from a survey by Royal Society *et al*. (2006).

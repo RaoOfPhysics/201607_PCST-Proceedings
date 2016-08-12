@@ -15,6 +15,7 @@ figures/figure_04/figure_04.png
 figures/figure_05/figure_05.png
 figures/figure_06/figure_06.png
 04_conclusions/conclusions.md
+figures/figure_07/figure_07.png
 04_conclusions/limitations.md
 04_conclusions/next_steps.md
 05_acknowledgements/acknowledgements.md
