@@ -1,5 +1,6 @@
 # Attitudes Towards Outreach within the Particle-Physics Research Community: proceedings for PCST 2016
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.60214.svg)](http://dx.doi.org/10.5281/zenodo.60214)
 [![Achintya's PhD repos](https://img.shields.io/badge/collection-Achintya's%20PhD%20repos-yellowgreen.svg)](https://github.com/RaoOfPhysics/phd)
 
 Repo for the paper based on [my talk at PCST 2016](http://pcst.co/conferences/session/2016-04-26/292), showing early results from my PhD research.
